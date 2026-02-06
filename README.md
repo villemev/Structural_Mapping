@@ -21,3 +21,14 @@ statistics for downstream analysis.
 - In-place enrichment of BibTeX entries
 - Per-folder and global CSV summaries
 - Scales to thousands of papers
+
+## Related publication
+
+This repository supports the methodology presented in:
+
+> Vaktskjold, V. E., Toppe, L. O., Luczkowski, M., Rønnquist, A., Morin, D.  
+> **Systematic Mapping of Artificial Intelligence Applications in Finite-Element-Based Structural Engineering**  
+> *Buildings*, 2026.  
+> https://www.mdpi.com/2075-5309/16/3/644
+
+If you use this code in academic work, please cite the paper.
